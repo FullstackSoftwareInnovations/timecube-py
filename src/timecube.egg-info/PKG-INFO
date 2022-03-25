@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: timecube
+Version: 1.1.0
+Summary: When you need to fill up space with something more interesting than Lorem Ipsum
+Home-page: https://github.com/FullstackSoftwareInnovations/pymecube/
+Author: Fullstack Software Innovations
+Author-email: chris@fullstack.software
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# timecube.py
+
+> When you need to fill up space with something more interesting than Lorem Ipsum 
+
+
+
+# Install
+
+```bash
+pip install timecube
+```
+
+# Usage
+
+```pycon
+import timecube
+
+
+print(timecube.generate(0, timecube.timecubeLength))
+
+```
+
+# Parameters
+### start: number (optional) 
+default - 0
+### stop: number (optional) 
+default - timecube.timecubeLength
+
+
+# License
+
+MIT © [FullstackSoftwareInnovations](https://github.com/FullstackSoftwareInnovations)
+

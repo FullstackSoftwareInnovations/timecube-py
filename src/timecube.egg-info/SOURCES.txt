@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/timecube/__init__.py
+src/timecube/timecube.py
+src/timecube.egg-info/PKG-INFO
+src/timecube.egg-info/SOURCES.txt
+src/timecube.egg-info/dependency_links.txt
+src/timecube.egg-info/top_level.txt
